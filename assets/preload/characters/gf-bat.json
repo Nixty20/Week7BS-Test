@@ -106,7 +106,7 @@
         13,
         14
       ],
-      "name": "GF Dancing Beat"
+      "name": "GF Dancing Beat Bat"
     },
     {
       "loop": false,
@@ -188,7 +188,7 @@
     }
   ],
   "no_antialiasing": false,
-  "image": "characters/gf",
+  "image": "characters/gf-bat",
   "position": [
     0,
     0
